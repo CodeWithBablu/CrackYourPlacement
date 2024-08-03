@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.ejs": "html",
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    "array": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "ranges": "cpp",
+    "span": "cpp"
+  }
+}
